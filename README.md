@@ -1,3 +1,17 @@
+# What is OpenAI Whisper?
+
+OpenAI Whisper is an automatic speech recognition (ASR) system developed by OpenAI. It is designed to transcribe spoken language into text with high accuracy. Whisper is trained on a large and diverse dataset of multilingual and multitask supervised data, which enables it to handle various languages, accents, and domains. It can also perform tasks like language identification, translation, and transcription of audio files.
+
+### Key Features of OpenAI Whisper:
+
+1. **Multilingual Support**: It can understand and transcribe multiple languages, making it versatile for global applications.
+2. **Robust to Accents and Noise**: Whisper is trained on a wide range of audio data, which includes diverse accents and background noises, making it robust in challenging audio conditions.
+3. **Multitask Capabilities**: Beyond just transcription, it can also identify the spoken language, detect different speakers, and even translate between some languages.
+4. **High Accuracy**: Due to its extensive training dataset, Whisper can achieve high levels of accuracy in transcription, especially in comparison to traditional ASR systems.
+5. **Open-Source**: Whisper is available as an open-source model, allowing developers to integrate it into their applications and further adapt it for specific use cases.
+
+Overall, Whisper is a powerful tool for converting spoken language into text, useful for applications such as transcribing meetings, generating subtitles, voice-activated commands, and more.
+
 # Steps to install and use OpenAI Whisper for video and audio files transcription
 
 Follow these steps to install and use OpenAI Whisper for video and audio files transcription.
