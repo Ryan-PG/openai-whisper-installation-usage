@@ -69,7 +69,7 @@ pip install -U openai-whisper
 ## Set this environment to variable to prevent downloading the models again:
 
 ```bash
-exoprt XDG_CACHE_HOME="C:\Users\<USERNAME>\.cache\whisper"
+exoprt XDG_CACHE_HOME="C:\Users\<USERNAME>\.cache"
 ```
 
 Do not forget to change `<USERNAME>` to your username.
